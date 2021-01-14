@@ -1,0 +1,7 @@
+create table member2(
+	id varchar2(50),
+	pw varchar2(50),
+	nick varchar2(50)
+)
+
+select * from member2;
